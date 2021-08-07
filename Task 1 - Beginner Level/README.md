@@ -10,8 +10,11 @@ The Iris Dataset contains four features (length and width of sepals and petals) 
 
 # Attribute Information:
 sepal length in cm
+
 sepal width in cm
+
 petal length in cm
+
 petal width in cm
 class:
 -- Iris Setosa
