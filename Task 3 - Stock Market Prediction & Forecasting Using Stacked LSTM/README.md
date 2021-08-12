@@ -1,5 +1,7 @@
 # TASK 3 - Stock Market Prediction And Forecasting Using Stacked LSTM
 
+![image](https://user-images.githubusercontent.com/69342524/129240068-07ed00c4-fd16-4812-b17a-5bf86b5f33c6.png)
+
 ## Problem Statement
 - Stock market investments generate great profits and is a fundamental stimulus for most of the market researchers in this area.
 
